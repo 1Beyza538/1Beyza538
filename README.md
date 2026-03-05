@@ -1,4 +1,26 @@
-## Hi there 👋
+# Merhaba 👋
+
+Ben Beyza. Yönetim Bilişim Sistemleri öğrencisiyim ve web geliştirme öğreniyorum.
+
+## 🚀 Hakkımda
+
+- HTML ve CSS öğreniyorum
+- JavaScript öğrenme sürecindeyim
+- Freelance web projeleri yapmak istiyorum
+
+## 🛠 Kullandığım Teknolojiler
+
+- HTML
+- CSS
+- JavaScript (öğreniyorum)
+
+## 📌 Hedefim
+
+Gerçek projeler geliştirip freelance olarak web sitesi yapmak.
+
+## 📫 Bana ulaş
+
+Yakında buraya iletişim bilgilerimi ekleyeceğim.## Hi there 👋
 
 <!--
 **1Beyza538/1Beyza538** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
