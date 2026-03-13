@@ -22,9 +22,13 @@ Gerçek projeler geliştirip freelance olarak web sitesi yapmak.
 
 Yakında buraya iletişim bilgilerimi ekleyeceğim.## Hi there 👋
 
-## Portfolyo Projesi – Demo Site
+## Portfolyo Projesi – Neoscode-academy
 
 Bu repo, 5 sayfalık yazılım kursu projesini içerir ve HTML ile CSS kullanılarak oluşturulmuştur. Responsive tasarım ve kullanıcı deneyimine odaklanılmıştır.
+
+## Portfolyo Projesi – site-demo
+
+Bu repo, tek sayfalık statik bir website projesini içerir ve HTML ve CSSkullanılarak oluşturulmuştur.
 
 ### Canlı Demo
 
