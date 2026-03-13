@@ -29,6 +29,7 @@ Bu repo, 5 sayfalık yazılım kursu projesini içerir ve HTML ile CSS kullanıl
 ### Canlı Demo
 
 🔗 [Canlı siteyi görmek için tıklayın](https://1beyza538.github.io/site-demo/)
+🔗 [Canlı Siteyi Görmek İçin Tıkla](https://kullaniciadi.github.io/neoscode-academy)
 
 ### Repo’dan Kodları Görüntüleme
 
