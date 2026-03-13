@@ -35,5 +35,5 @@ Bu repo, 5 sayfalık yazılım kursu projesini içerir ve HTML ile CSS kullanıl
 Projeyi kendi bilgisayarınızda çalıştırmak için repo’yu klonlayabilirsiniz:
 
 ```bash
-git clone https://1beyza538.github.io/new-site/
+git clone https://1Beyza538.github.io/new-site/
 
