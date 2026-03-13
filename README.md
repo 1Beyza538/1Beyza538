@@ -28,12 +28,12 @@ Bu repo, 5 sayfalık yazılım kursu projesini içerir ve HTML ile CSS kullanıl
 
 ### Canlı Demo
 
-🔗 [Canlı siteyi görmek için tıklayın](https://1Beyza538.github.io/demo-site/)
+🔗 [Canlı siteyi görmek için tıklayın](https://1beyza538.github.io/site-demo/)
 
 ### Repo’dan Kodları Görüntüleme
 
 Projeyi kendi bilgisayarınızda çalıştırmak için repo’yu klonlayabilirsiniz:
 
 ```bash
-git clone https://1Beyza538.github.io/new-site/
+git clone https://1beyza538.github.io/site-demo/
 
