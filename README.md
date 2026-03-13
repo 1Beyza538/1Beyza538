@@ -36,4 +36,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak için repo’yu klonlayabilirsi
 
 ```bash
 git clone https://1beyza538.github.io/site-demo/
+git clone https://1beyza538.github.io/neoscode-academy/
 
