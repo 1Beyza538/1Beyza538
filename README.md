@@ -33,7 +33,7 @@ Bu repo, tek sayfalık statik bir website projesini içerir ve HTML ve CSSkullan
 ### Canlı Demo
 
 🔗 [Canlı siteyi görmek için tıklayın](https://1beyza538.github.io/site-demo/)
-🔗 [Canlı Siteyi Görmek İçin Tıkla](https://kullaniciadi.github.io/neoscode-academy/)
+🔗 [Canlı Siteyi Görmek İçin Tıkla](https://1beyza538.github.io/neoscode-academy/)
 
 ### Repo’dan Kodları Görüntüleme
 
